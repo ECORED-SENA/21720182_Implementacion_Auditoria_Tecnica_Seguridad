@@ -2,13 +2,29 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 80%
+    right: 88%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 70%
+    right: 10%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 55%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    right: 0%
+  &-5
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 10%
+    right: 65%
+  
 
 
 @keyframes float1
@@ -17,3 +33,116 @@
 
   100%
     transform: translateY(0px)
+
+.titulo-principal__numero
+  background: $color-acento-contenido
+
+.titulo-principal__numero span, 
+.boton *, 
+.tarjeta-numerada.color-primario .tarjeta-numerada__numero div,
+.img-infografica__item__numero
+    color: #fff !important;
+
+.img-hover-cus:hover img
+    left: 39%;
+    transform: translateY(-15px);
+.tarjeta-avatar > img 
+    width: 90px;
+.tarjeta-avatar 
+    padding-top: 50px;
+.tarjeta-avatar .tarjeta
+    width: 100%;
+.border-img-cus
+  border: 1px solid rgba(107, 63, 209, .15);
+.h-tarjeta-num-cus
+  height: 200px
+.img-infografica .img-infografica__item 
+  width: 5.5%;
+.bg-img-infografica
+  background: #E9DFFC
+.bd-full-view
+    width: 112%;
+    left: -6%;
+    position: relative;
+.bd-radius-cus-left
+  -webkit-border-top-left-radius: 20px;
+  -webkit-border-bottom-left-radius: 20px;
+  -moz-border-radius-topleft: 20px;
+  -moz-border-radius-bottomleft: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+.bd-radius-cus-right
+  -webkit-border-top-right-radius: 20px;
+  -webkit-border-bottom-right-radius: 20px;
+  -moz-border-radius-topright: 20px;
+  -moz-border-radius-bottomright: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+.bg-color-card
+  background: rgba(41, 154, 230, .10);
+.cajon.color-secundario 
+  background-color: #d4f1f8;
+.cajon.color-secundario:before 
+  background-color: #299AE6;
+.bg-gradient-cus
+  background: rgba(255,255,255, 0.2);
+  background: linear-gradient(343deg, rgba(97,140,235,0.2) 0%, rgba(217,171,244,0.2) 27%, rgba(131,210,241,0.2) 100%);
+  border: 0 
+.acordion__activo
+  background: rgba(255,255,255, 0.2);
+  background: linear-gradient(343deg, rgba(97,140,235,0.2) 0%, rgba(217,171,244,0.2) 27%, rgba(131,210,241,0.2) 100%);
+  border: 0 
+.bg-shadow-cus-bottom
+  bottom: 20%;
+  position: relative;
+  padding: 0
+  margin: 0
+.bg-shadow-cus-top
+  top: 20%;
+  position: relative;
+  padding: 0
+  margin: 0
+.tarjeta--gris
+  background-color: #F6F6F6
+.mr-cus
+  margin-left: 6% !important;
+.radius-20-cus
+  border-radius: 20px
+.tarjeta-numerada.color-adicional-3
+    border-color: $color-adicional-3
+.tarjeta-numerada.color-adicional-3 .tarjeta-numerada__numero 
+    background-color: $color-adicional-3
+.tarjeta-numerada.color-primario .tarjeta-numerada__numero div, .img-infografica__item__numero, 
+.tarjeta-numerada.color-acento-contenido .tarjeta-numerada__numero div, .img-infografica__item__numero, 
+.tarjeta-numerada.color-secundario .tarjeta-numerada__numero div, .img-infografica__item__numero, 
+.tarjeta-numerada.color-adicional-3 .tarjeta-numerada__numero div, .img-infografica__item__numero, 
+    color: #fff !important;
+.title-cus
+  background-color: $color-secundario
+  -webkit-border-top-right-radius: 125px;
+  -webkit-border-bottom-right-radius: 125px;
+  -moz-border-radius-topright: 125px;
+  -moz-border-radius-bottomright: 125px;
+  border-top-right-radius: 125px;
+  border-bottom-right-radius: 125px;
+  color: #fff !important;
+  width: max-content;
+.pr-cus
+  padding-right: 2rem;
+.pl-cus
+  padding-left: 1rem;
+.px-sm-5-cus
+  padding: 0 20px;
+
+
+@media (max-width: 768px) 
+  .title-cus
+    width: auto;
+  .bd-radius-cus-left
+    -webkit-border-top-right-radius: 20px;
+    -webkit-border-bottom-right-radius: 20px;
+    -moz-border-radius-topright: 20px;
+    -moz-border-radius-bottomright: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+ 
