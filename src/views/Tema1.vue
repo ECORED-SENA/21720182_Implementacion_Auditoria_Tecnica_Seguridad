@@ -44,7 +44,7 @@
 
     .row.mb-5
       .col-12
-        p.mb-4 En la actualidad, la mayor parte de la información reside en servidores, redes de información y almacenamientos como nube, discos extraíbles o backups, enmarcados dentro de lo que se conoce como sistemas de información. Estos sistemas de información están sujetos a vulnerabilidades, ataques informáticos, riesgos e inseguridades, tanto desde dentro de la propia organización como desde afuera. Los riesgos que se pueden presentar se dividen en:
+        p.mb-4 En la actualidad, la mayor parte de la información reside en servidores, redes de información y almacenamientos como nube, discos extraíbles o <i>backups</i>, enmarcados dentro de lo que se conoce como sistemas de información. Estos sistemas de información están sujetos a vulnerabilidades, ataques informáticos, riesgos e inseguridades, tanto desde dentro de la propia organización como desde afuera. Los riesgos que se pueden presentar se dividen en:
             
   
     .row.mb-5.d-flex.justify-content-center
@@ -183,10 +183,10 @@
           p #[strong 1.] Se enfoca en la protección de toda la infraestructura del parque computacional de la empresa, donde se implementan protocolos, herramientas y normatividad para minimizar los posibles riesgos. 
           p #[strong 2.] Enfoque defensivo.
           p #[strong 3.] Protege la información a través de la seguridad de redes y sistemas interconectados, evitando ataques informáticos.
-          p #[strong 4.] Utiliza componentes de hardware que tienen controles de seguridad.
+          p #[strong 4.] Utiliza componentes de <i>hardware</i> que tienen controles de seguridad.
           p #[strong 5.] Se enfoca en las amenazas en línea.
-          p #[strong 6.] “Enseña” a actuar como un hacker.
-          p #[strong 7.] Analiza el software malicioso.
+          p #[strong 6.] “Enseña” a actuar como un <i>hacker</i>.
+          p #[strong 7.] Analiza el <i>software</i> malicioso.
           p #[strong 8.] Es el primer respondiente ante el incidente cibernético.
         .col-sm-12.col-lg-5
           figure

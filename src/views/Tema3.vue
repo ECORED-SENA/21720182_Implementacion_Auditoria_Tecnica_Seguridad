@@ -22,7 +22,7 @@
         p.title-cus.py-2.pr-cus.pl-cus Tipos de técnicas de implementación de políticas SGSI
     .row.mb-3
       .col-12
-        p Una política de seguridad es un lineamiento para la toma de una decisión sobre algún aspecto de la seguridad de la información; por ejemplo, se autoriza el acceso a la información a un científico de datos, pero no el análisis del marketing empresarial sobre la medición de ventas (toda vez que es para el cumplimiento de las funciones asignadas).
+        p Una política de seguridad es un lineamiento para la toma de una decisión sobre algún aspecto de la seguridad de la información; por ejemplo, se autoriza el acceso a la información a un científico de datos, pero no el análisis del <i>marketing</i> empresarial sobre la medición de ventas (toda vez que es para el cumplimiento de las funciones asignadas).
         p.mt-1 Otros tipos de controles podrían ser de tipo:
 
     .row.mb-5
@@ -78,7 +78,7 @@
       .row
         .col-md-6.mb-4.mb-md-0
           p  #[strong  Caso de estudio]
-          p.mt-4 En un call center con un movimiento de 1000 personas aproximadamente, se tienen cámaras de vigilancia permanente que guardan la información en un servidor de video para CCTV; este servidor se encuentra separado del datacenter ubicado en el cuarto de vigilancia que está a la entrada de la empresa, junto a la recepción.
+          p.mt-4 En un <i>call center</i> con un movimiento de 1000 personas aproximadamente, se tienen cámaras de vigilancia permanente que guardan la información en un servidor de video para CCTV; este servidor se encuentra separado del datacenter ubicado en el cuarto de vigilancia que está a la entrada de la empresa, junto a la recepción.
           p.mt-1 Al observar la situación, el visitante puede darse cuenta de que hay ciertos momentos del día en que las recepcionistas se levantan a realizar cualquier diligencia y el personal de vigilancia hace sus rondas.
           p.mt-1 En conclusión, hay espacios del día, entre las 11:30 y las 12:00 m., que la recepción queda sola; el argumento de las recepcionistas es que se están preparando para la hora más complicada, en cuanto entrada y salida de personal, el medio día, y aunque hay una puerta con llave, no hay más protecciones.
           p.mt-1 A los pocos días, se presentó un robo en la empresa y no fue posible recuperar la información de las cámaras de seguridad.

@@ -113,6 +113,9 @@
             ul.lista-ul--color
                   li 
                     i.fas.fa-database
+                    | Pérdidas de confidencialidad.
+                  li 
+                    i.fas.fa-database
                     | Integridad. 
                   li 
                     i.fas.fa-database
@@ -319,13 +322,13 @@ export default {
       },
       {
         titulo:
-          'Inventario de hardware (discos extraíbles, impresoras), verificando si están conectados a la RED local de la empresa.',
+          'Inventario de <i>hardware</i> (discos extraíbles, impresoras), verificando si están conectados a la RED local de la empresa.',
         texto: '',
         imagen: require('@/assets/curso/temas/t2/img8.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Intranet en caso de existir.',
+        titulo: '<i>Intranet</i> en caso de existir.',
         texto: '',
         imagen: require('@/assets/curso/temas/t2/img9.png'),
         // leyendaImagen: 'Leyenda de la imagen',
