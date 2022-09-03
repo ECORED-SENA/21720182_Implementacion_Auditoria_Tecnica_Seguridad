@@ -33,6 +33,13 @@
 
   100%
     transform: translateY(0px)
+// .banner-principal__row .banner-principal__img
+//    height: 507px;
+// .banner-principal__row .banner-principal__img img
+//    height: -webkit-fill-available;
+//    width: 80%
+
+
 
 .titulo-principal__numero
   background: $color-acento-contenido
@@ -44,7 +51,10 @@
     color: #fff !important;
 
 .img-hover-cus:hover img
-    left: 39%;
+    left: 27%;
+    transform: translateY(-15px);
+.img-hover-cus-avatar:hover img
+    left: 33%;
     transform: translateY(-15px);
 .tarjeta-avatar > img 
     width: 90px;
@@ -55,12 +65,12 @@
 .border-img-cus
   border: 1px solid rgba(107, 63, 209, .15);
 .h-tarjeta-num-cus
-  height: 200px
+  height: 230px
 .img-infografica .img-infografica__item 
   width: 5.5%;
 .bg-img-infografica
   background: #E9DFFC
-.bd-full-view
+.bd-full-view, .bd-full-view-2
     width: 112%;
     left: -6%;
     position: relative;
@@ -103,8 +113,8 @@
   padding: 0
   margin: 0
 .tarjeta--gris
-  background-color: #F6F6F6
-.mr-cus
+  background-color: #f6f6f6
+.mr-cus, .mr-cus-2
   margin-left: 6% !important;
 .radius-20-cus
   border-radius: 20px
@@ -133,9 +143,34 @@
   padding-left: 1rem;
 .px-sm-5-cus
   padding: 0 20px;
-
+.img-width-cus
+  width: 136px !important
+.shadow-box
+  -webkit-box-shadow: 0px 5px 11px 4px rgba(140,140,140,0.34); 
+  box-shadow: 0px 5px 11px 4px rgba(140,140,140,0.34);
+.bg-list
+  background: rgba(41,154,230,0.1)
+  border-radius: 20px
+.slyder-a__bullets__item
+  background: #004B89
+  opacity: 0.35
+.slyder-a__bullets__item--active
+  background: #004B89
+  opacity: 1
+.hcus-bg-img
+  height: 500px
+.mt-cus
+  margin-top: 3rem!important;
+.mx-cus
+    margin-right: 0rem!important;
+    margin-left: 0rem!important;
+.mt-sm-5
+    margin-top: 0px !important
+.px-sm-0
 
 @media (max-width: 768px) 
+  .mt-cus
+    margin-top: 0rem!important;
   .title-cus
     width: auto;
   .bd-radius-cus-left
@@ -145,4 +180,31 @@
     -moz-border-radius-bottomright: 20px;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
+  .mr-cus
+    margin-left: 1% !important;
+    margin-right: 4% 
+  .img-width-cus-2
+    width: 85%
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 40px
+  .hcus-bg-img 
+    height: 100%;
+  .bd-full-view-2
+    width: 114%;
+    left: -4%;
+    position: relative;
+    padding-right: 50px;
+  .mt-sm-5
+    margin-top: 35px !important
+  .mx-cus
+    margin-right: 1rem!important;
+    margin-left: 1rem!important;
+  .px-sm-0
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+
+
+
+
  

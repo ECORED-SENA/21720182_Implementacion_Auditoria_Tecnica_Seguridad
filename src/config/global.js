@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Fundamentos y aplicaciones de políticas de SGSI',
     descripcionCurso:
       'Las políticas de auditoría de seguridad de la información son indispensables en cualquier entidad o empresa. Uno de los activos más valiosos en la organización es la información, es importante tener claridad que día a día se ven diferentes ciberataques y vulnerabilidades a las empresas.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
