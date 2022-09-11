@@ -251,26 +251,26 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="zoom-in")
       .row.justify-content-center(titulo="Ley 527 de 1999")
         .col-lg-2.col-8
-          figure
+          figure.mb-lg-0.mb-4
             img(src='@/assets/curso/temas/t2/img22.png', alt='Texto que describa la imagen')
         .col-lg-8.col-12
           p “Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones”.
           p.mt-1 Con esta ley, se puede establecer la importancia y validez de los mensajes de datos frente a un ataque informático y qué se requiere para extraer evidencia digital.
       .row.justify-content-center(titulo="Ley 1273 de 2009")
         .col-lg-2.col-8
-          figure
+          figure.mb-lg-0.mb-4
             img(src='@/assets/curso/temas/t2/img23.png', alt='Texto que describa la imagen')
         .col-lg-8.col-12
           p Conocida como la configuración y tipificación de los delitos informáticos en Colombia; puede aplicar la evidencia digital obtenida mediante la ley 527 de 1999.
       .row.justify-content-center(titulo="Norma ISO 27001")
         .col-lg-2.col-8
-          figure
+          figure.mb-lg-0.mb-4
             img(src='@/assets/curso/temas/t2/img24.png', alt='Texto que describa la imagen')
         .col-lg-8.col-12
           p Norma internacional que admite la protección, confidencialidad e integridad de los datos y de la información.
       .row.justify-content-center(titulo="Norma ISO 27002")
         .col-lg-2.col-8
-          figure
+          figure.mb-lg-0.mb-4
             img(src='@/assets/curso/temas/t2/img25.png', alt='Texto que describa la imagen')
         .col-lg-8.col-12
           p Establece directrices y principios generales para iniciar, implementar, mantener y mejorar la gestión de la seguridad de la información en una organización.

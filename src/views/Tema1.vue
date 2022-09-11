@@ -169,9 +169,9 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 1
           span Fases de una auditoría
-    .row(data-aos="zoom-in").mb-5
+    .row.justify-content-center(data-aos="zoom-in").mb-5
       .col-10
-        figure.mb-4.px-lg-5.mx-lg-5
+        figure.mb-0
           img(src="@/assets/curso/temas/t1/img9.svg", alt="alt")
     
     .row.mb-4(data-aos="zoom-in")
@@ -240,15 +240,15 @@
         p Mediante la norma ISO 27001, la implementación del SGSI sigue el modelo Planificar – Hacer – Verificar -Actuar, para la mejora continua de los procesos del SGSI:
     
     .row(data-aos="zoom-in").mb-5.d-flex.justify-content-center
-       .col-10
+      .col-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span PHVA - Icontec
 
-        figure.mb-4.px-lg-5.mx-lg-5
+        figure.mb-0
           img(src="@/assets/curso/temas/t1/img13.svg", alt="alt")
     
-    .bd-full-view.bg-gradient-cus(data-aos="zoom-in")
+    .bd-full-view.bg-gradient-cus.border(data-aos="zoom-in")
       
         .bg-shadow-cus-top
             figure
@@ -260,8 +260,8 @@
           .col-md-4
             p(data-aos="zoom-in") Cuando una empresa está interesada en realizar un sistema exhaustivo de Gestión de Seguridad de la Información, debe iniciar documentando procesos y conociendo cómo opera la misma, también debe revisar el manual de funciones de cada empleado; esto es fundamental al empezar a aplicar el ciclo PHVA, en la acción, para planear, es necesario conocer los procesos digitales críticos en la organización, luego, detalladamente, se deben analizar para implementar controles que puedan proteger los procesos utilizados ante amenazas cibernéticas.
         
-        .row.mr-cus.mt-5.d-flex.justify-content-center
-          .col-md-10
+        .row.mt-5.justify-content-center
+          .col-lg-10.col-12
             .cajon.color-secundario.p-4
               p(data-aos="zoom-in") Dentro del planear, se pueden detectar amenazas que no son externas, sino internas; las amenazas que están en Internet no son la causa de un ser humano con intenciones maliciosas, sino de los mismos empleados que, al no estar capacitados, descargan programas que vienen con troyanos o, sin intención maliciosa, pueden mover un directorio o archivo; también se deben revisar las políticas que tenga contempladas el departamento de TI de la organización.
 
