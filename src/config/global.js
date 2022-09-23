@@ -89,6 +89,12 @@ export default {
             titulo: 'Áreas de impacto',
             hash: 't_2_3',
           },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.4',
+            titulo: 'Marco normativo',
+            hash: 't_2_4',
+          },
         ],
       },
       {
