@@ -61,8 +61,8 @@
         p Para implementar políticas de seguridad de la información, se requiere de leyes y normas, requisitos de seguridad y tener claras las metas y objetivos de la seguridad. Con base en ello, se definen los requisitos para establecer las políticas de seguridad de la información, las mismas se documentan en la política institucional de seguridad, donde se especifican e implementan con procedimientos, estándares y controles.
         p.mt-1 Dentro de posibles casos, se pueden identificar los grupos de controles o requisitos de la norma ISO 27001. Por ejemplo:
 
-    SlyderA(tipo="b")(data-aos="zoom-in").bg-gradient-cus.px-4.py-2.radius-20-cus
-      .row
+    SlyderA(tipo="b")(data-aos="zoom-in").bg-gradient-cus.px-0.py-2.radius-20-cus
+      .row.px-3
         .col-md-6.mb-4.mb-md-0
           p.h4  Ejemplo
           p.mt-4  Una organización que no tiene lineamientos para la toma de decisiones, es decir, que cada empleado toma decisiones según sus criterios profesionales y personales, por ello, se tiene una gran cantidad de razonamientos que conducen la empresa al caos organizacional, por lo que, si se implementan políticas de seguridad, se puede establecer una cultura organizacional para la toma decisiones.
@@ -71,12 +71,12 @@
         .col-md-6
           figure
             img(src='@/assets/curso/temas/t3/img4.png', alt='Texto que describa la imagen')
-      .row
+      .row.px-3
         .col-md-6.mb-4.mb-md-0
           p.h4 Caso de estudio
           p.mt-4 En un <i>call center</i> con un movimiento de 1000 personas aproximadamente, se tienen cámaras de vigilancia permanente que guardan la información en un servidor de video para CCTV; este servidor se encuentra separado del datacenter ubicado en el cuarto de vigilancia que está a la entrada de la empresa, junto a la recepción.
           p.mt-1 Al observar la situación, el visitante puede darse cuenta de que hay ciertos momentos del día en que las recepcionistas se levantan a realizar cualquier diligencia y el personal de vigilancia hace sus rondas.
-          p.mt-1 En conclusión, hay espacios del día, entre las 11:30 y las 12:00 m., que la recepción queda sola; el argumento de las recepcionistas es que se están preparando para la hora más complicada, en cuanto entrada y salida de personal, el medio día, y aunque hay una puerta con llave, no hay más protecciones.
+          p.mt-1 En conclusión, hay espacios del día, entre las 11:30 y las 12:00 m., que la recepción queda sola; el argumento de las recepcionistas es que se están preparando para la hora más complicada, en cuanto a entrada y salida de personal, el mediodía, y aunque hay una puerta con llave, no hay más protecciones.
           p.mt-1 A los pocos días, se presentó un robo en la empresa y no fue posible recuperar la información de las cámaras de seguridad.
       
         .col-md-6

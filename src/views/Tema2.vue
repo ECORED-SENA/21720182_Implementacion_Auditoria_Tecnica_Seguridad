@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4(data-aos="zoom-in")
-        p.mb-2 La valoración del riesgo asegura que el SGSI logre los efectos previstos, donde, con las mismas herramientas, se pueden prevenir o reducir efectos indeseados, logrando la mejora progresiva, integrando e implementando acciones en los procesos del sistema de gestión de la seguridad de la información.
+        p.mb-2 La valoración del riesgo asegura que el SGSI logre los efectos previstos, donde, con las mismas herramientas, se pueden prevenir o reducir efectos indeseados, logrando la mejora progresiva, integrando e implementando acciones en los procesos del sistema de gestión de la seguridad de la información.<br><br>
         p Existen empresas en el mundo que ofrecen una gran cantidad de herramientas para la valoración del riesgo, como:
     
     .row.d-flex.justify-content-center(data-aos="zoom-in")
@@ -295,7 +295,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img26.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-1 En la era de la 4º Revolución Industrial, las organizaciones migraron al teletrabajo y home office, nacieron conceptos como nómadas digitales, donde un trabajador, desde cualquier parte del mundo, puede cumplir con sus obligaciones y funciones contractuales, por lo que es fundamental que la organización se blinde ante la fuga de información y frente a posibles ataques cibernéticos.
+        p.mb-1 En la era de la 4º Revolución Industrial, las organizaciones migraron al teletrabajo y <i>home office</i>, nacieron conceptos como nómadas digitales, donde un trabajador, desde cualquier parte del mundo, puede cumplir con sus obligaciones y funciones contractuales, por lo que es fundamental que la organización se blinde ante la fuga de información y frente a posibles ataques cibernéticos.
         p En Colombia, también se cuenta con ley de teletrabajo y CONPES de transformación digital, el país está bien preparado en normatividad y afín a las nuevas tecnologías, se encuentra catalogado como el mejor respondiente a incidentes informáticos en Latinoamérica. 
     
 </template>

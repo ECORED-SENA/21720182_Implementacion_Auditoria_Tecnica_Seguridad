@@ -263,7 +263,7 @@
         .row.mt-5.justify-content-center
           .col-lg-10.col-12
             .cajon.color-secundario.p-4
-              p(data-aos="zoom-in") Dentro del planear, se pueden detectar amenazas que no son externas, sino internas; las amenazas que están en Internet no son la causa de un ser humano con intenciones maliciosas, sino de los mismos empleados que, al no estar capacitados, descargan programas que vienen con troyanos o, sin intención maliciosa, pueden mover un directorio o archivo; también se deben revisar las políticas que tenga contempladas el departamento de TI de la organización.
+              p(data-aos="zoom-in") Dentro de planear, se pueden detectar amenazas que no son externas, sino internas; las amenazas que están en Internet no son la causa de un ser humano con intenciones maliciosas, sino de los mismos empleados que, al no estar capacitados, descargan programas que vienen con troyanos o, sin intención maliciosa, pueden mover un directorio o archivo; también se deben revisar las políticas que tenga contempladas el departamento de TI de la organización.
 
         .bg-shadow-cus-bottom(data-aos="zoom-in")
             figure

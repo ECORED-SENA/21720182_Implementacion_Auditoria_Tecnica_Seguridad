@@ -210,7 +210,7 @@ export default {
     {
       termino: 'Autenticación',
       significado:
-        'es el acto de establecimiento o confirmación de algo como auténtico. La autenticación de un objeto puede significar la confirmación de su procedencia, mientras que la autenticación de una persona, a menudo, consiste en verificar su identidad. La autenticación depende de uno o varios factores.Desde el punto digital existen varios tipos de autenticación, como las contraseñas, biométricos, token y otros.',
+        'es el acto de establecimiento o confirmación de algo como auténtico. La autenticación de un objeto puede significar la confirmación de su procedencia, mientras que la autenticación de una persona, a menudo, consiste en verificar su identidad. La autenticación depende de uno o varios factores. Desde el punto digital existen varios tipos de autenticación, como las contraseñas, biométricos, token y otros.',
     },
     {
       termino: 'Base de datos',
@@ -253,7 +253,7 @@ export default {
       tema:
         'Conceptos Sistema de Gestión de Seguridad de la Información (SGSI)',
       referencia:
-        'Oficina de Seguridad para las Redes Informáticas. (s. f.). <i>Metodología para la gestión de la Seguridad Informática</i>. https://instituciones.sld.cu/dnspminsap/files/2013/08/Metodologia-PSI-NUEVAProyecto.pdf',
+        'Oficina de Seguridad para las Redes Informáticas. (s. f.). <i>Metodología para la gestión de la Seguridad Informática</i>.',
       tipo: 'Artículo',
       link:
         'https://instituciones.sld.cu/dnspminsap/files/2013/08/Metodologia-PSI-NUEVAProyecto.pdf',
@@ -261,7 +261,7 @@ export default {
     {
       tema: 'Herramientas para la valoración de riesgos',
       referencia:
-        'Erb, M. (2009). <i>Amenazas y Vulnerabilidades</i>. Gestión de Riesgo en la Seguridad Informática. https://protejete.wordpress.com/gdr_principal/amenazas_vulnerabilidades',
+        'Erb, M. (2009). <i>Amenazas y Vulnerabilidades</i>. Gestión de Riesgo en la Seguridad Informática.',
       tipo: 'Artículo',
       link:
         'https://protejete.wordpress.com/gdr_principal/amenazas_vulnerabilidades',
@@ -271,47 +271,48 @@ export default {
       referencia:
         'Instituto Colombiano de Normas Técnicas y Certificación [ICONTEC]. (2006). <i>Tecnología de la información. Técnicas de seguridad. Sistemas de Gestión de la Seguridad de la Información (SGSI). Requisitos (NTC-ISO/IEC 27001)</i>.',
       tipo: 'Norma',
-      link: 'https://www.icontec.org/',
+      link:
+        'https://tienda.icontec.org/gp-tecnologia-de-la-informacion-tecnicas-de-seguridad-sistemas-de-gestion-de-la-seguridad-de-la-informacion-requisitos-ntc-iso-iec27001-2013.html',
     },
     {
       tema: 'Marco normativo',
       referencia:
-        'Ley 527 de 1999. Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones. Agosto 18 de 1999. DO. Nº. 43.673. http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html',
+        'Ley 527 de 1999. Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones. Agosto 18 de 1999. DO. Nº. 43.673.',
       tipo: 'PDF',
       link: 'downloads/Anexo3_CF001_Ley_527_de_1999.pdf',
     },
     {
       tema: 'Marco normativo',
       referencia:
-        'Ley 1273 de 2009. Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos" y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones. Enero 5 de 2009. https://www.sic.gov.co/recursos_user/documentos/normatividad/Ley_1273_2009.pdf',
+        'Ley 1273 de 2009. Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos" y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones. Enero 5 de 2009.',
       tipo: 'PDF',
       link: 'downloads/Anexo4_CF001_Ley_1273_2009.pdf',
     },
     {
       tema: 'Marco normativo',
       referencia:
-        'Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_1581_2012.pdf',
+        'Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012.',
       tipo: 'PDF',
       link: 'downloads/Anexo5_CF001_Ley_1581_2012.pdf',
     },
     {
       tema: 'Marco normativo',
       referencia:
-        'Departamento Nacional de Planeación [DNP]. (2011). <i>Lineamientos de Política para Ciberseguridad y Ciberdefensa (Conpes 3701)</i>. https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3701.pdf',
+        'Departamento Nacional de Planeación [DNP]. (2011). <i>Lineamientos de Política para Ciberseguridad y Ciberdefensa (Conpes 3701)</i>.',
       tipo: 'PDF',
       link: 'downloads/Anexo6_CF001_Conpes_3701.pdf',
     },
     {
       tema: 'Marco normativo',
       referencia:
-        'Departamento Nacional de Planeación [DNP]. (2016). <i>Política Nacional de Seguridad Digital (Conpes 3854)</i>. https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf',
+        'Departamento Nacional de Planeación [DNP]. (2016). <i>Política Nacional de Seguridad Digital (Conpes 3854)</i>.',
       tipo: 'PDF',
       link: 'downloads/Anexo7_CF001_Conpes_3854.pdf',
     },
     {
       tema: 'Marco normativo',
       referencia:
-        'Consejo de Europa. (2001). <i>Convenio sobre la ciberdelincuencia</i>. https://www.oas.org/juridico/english/cyb_pry_convenio.pdf',
+        'Consejo de Europa. (2001). <i>Convenio sobre la ciberdelincuencia</i>.',
       tipo: 'PDF',
       link: 'downloads/Anexo8_CF001_convenio_budapest.pdf',
     },
@@ -378,7 +379,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura -  Regional Santander',
       },
       {
-        nombre: '--',
+        nombre: 'Erika Viviana Sandoval Rojas',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura -  Regional Santander',
